@@ -19,7 +19,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhyChesterCheung&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </html>
 
--  **Focusing :** Cloud-Native Observebility :zap: Open-Source :fire: 
+-  **Focusing :** Cloud-Native Observability :zap: OpenSource :fire: 
 -  **Skills :** Golang, Distributed, Infrastructure, OpenTelemetry
 -  **Hobbies :** Drunk :beers: & Music :headphones:
 -  **Job :** Backend Developer in [Tencent](https://github.com/tencent)
