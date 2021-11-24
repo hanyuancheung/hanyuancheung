@@ -1,6 +1,6 @@
-###  :man_technologist:  [csuzhang](https://zhyChesterCheung.github.io)
+###  :man_technologist:  [Chester Cheung](https://zhyChesterCheung.github.io)
 
-👋 Hi, I'm csuzhang, a passionate & singlehood backend developer from China 🚀. 
+👋 Hi, I'm Chester, a passionate & singlehood backend developer from China 🚀. 
 
 <div align="center">
   <a href="https://github.com/zhyChesterCheung">
@@ -24,7 +24,7 @@
 -  **Hobbies :** Drunk :beers: & Music :headphones:
 -  **Job :** Backend Developer in [Tencent](https://github.com/tencent)
 -  **Fact :** Keep Eyes and Ears Open :heart:
--  **Contact me :** [csuzhang](mailto:cheung.zhy.csu@gmail.com)
+-  **Contact me :** [Chester Cheung](mailto:cheung.zhy.csu@gmail.com)
 
 ### Languages and Tools
 
