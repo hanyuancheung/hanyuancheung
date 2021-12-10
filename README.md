@@ -14,6 +14,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/zhyChesterCheung">
+    <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhyChesterCheung&theme=github">
+  </a>
+</div>
+
 ### About Me
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhyChesterCheung&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
