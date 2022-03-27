@@ -12,17 +12,18 @@
   <a href="https://www.zhihu.com/people/la-la-la-la-la-la-la-ji-9">
     <img src="https://img.shields.io/badge/-ZhiHuer-blue?style=flat&logo=zhihu&logoColor=white" alt="star">
   </a>
+    <img src="https://komarev.com/ghpvc/?username=hanyuancheung&color=green" alt="star">
 </div>
 
 <div align="center">
   <a href="https://github.com/hanyuancheung">
-    <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanyuancheung&theme=github">
+    <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanyuancheung&theme=github">
   </a>
 </div>
 
 ### About Me
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hanyuancheung&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=hanyuancheung&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </html>
 
 -  **Focusing :** Cloud-Native Observability :zap: OpenSource :fire: 
@@ -34,10 +35,11 @@
 
 ### Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/open-telemetry/opentelemetry-rust/main/assets/logo-text.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/49725059?s=200&v=4"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/3380462?s=200&v=4"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/45281227?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/-cncf-05122A?style=flat&logo=cncf"></code>
+<code><img height="20" src="https://img.shields.io/badge/-prometheus-05122A?style=flat&logo=prometheus"></code>
+<code><img height="20" src="https://img.shields.io/badge/-grafana-05122A?style=flat&logo=grafana"></code>
+<code><img height="20" src="https://img.shields.io/badge/-golang-05122A?style=flat&logo=go"></code>
+<code><img height="20" src="https://img.shields.io/badge/-rust-05122A?style=flat&logo=rust"></code>
+<code><img height="20" src="https://img.shields.io/badge/-opentelemetry-05122A?style=flat&logo=opentelemetry"></code>
+<code><img height="20" src="https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></code>
