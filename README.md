@@ -1,10 +1,14 @@
 ###  :man_technologist:  [Chester Cheung](https://hanyuancheung.github.io)
 
-👋 Hi, I'm Chester, a passionate & singlehood backend developer from China 🚀. 
+👋 Hi, I'm Chester, a passionate & singlehood backend developer [@Tencent](https://github.com/tencent) from China 🚀.
+
+- I'm **Approver** of [@open-telemetry](https://github.com/open-telemetry) ([@opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) & [@opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib)).
+- I'm **Contributor** of [@Prometheus](https://github.com/prometheus) & [@Thanos](https://github.com/thanos-io/thanos/) & [@Grafana](https://github.com/grafana/grafana).
+- I'm **founder** of [CNCF @Glossary](https://github.com/cncf/glossary)'s [Chinese Community](https://glossary.cncf.io/zh-cn/).
 
 <div align="center">
-  <a href="https://github.com/hanyuancheung">
-    <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white">
+  <a title="github" target="_blank" href="https://github.com/Achuan-2">
+    <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhanyuancheung&labelColor=282c34&color=353940&logo=github&longCache=true" >
   </a>
   <a href="mailto:cheung.zhy.csu@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"">
@@ -16,15 +20,15 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/hanyuancheung">
-    <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanyuancheung&theme=github">
-  </a>
+    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=hanyuancheung" />
+    <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanyuancheung&theme=github">
 </div>
 
 ### About Me
 
+<div>
 <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=hanyuancheung&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</html>
+</div>
 
 -  **Focusing :** Cloud-Native Observability :zap: OpenSource :fire: 
 -  **Skills :** Golang, Distributed, Infrastructure, OpenTelemetry
