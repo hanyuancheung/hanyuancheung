@@ -4,7 +4,7 @@
 
 - I'm **Approver** of [@open-telemetry](https://github.com/open-telemetry) ([@opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) & [@opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib)).
 - I'm **Contributor** of [@Prometheus](https://github.com/prometheus) & [@Thanos](https://github.com/thanos-io/thanos/) & [@Grafana](https://github.com/grafana/grafana).
-- I'm **founder** of [CNCF @Glossary](https://github.com/cncf/glossary)'s [Chinese Community](https://glossary.cncf.io/zh-cn/).
+- I'm **Founder** of [CNCF @Glossary](https://github.com/cncf/glossary)'s [Chinese Community](https://glossary.cncf.io/zh-cn/).
 
 <div align="center">
   <a title="github" target="_blank" href="https://github.com/Achuan-2">
