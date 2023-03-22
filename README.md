@@ -1,6 +1,6 @@
 ###  :man_technologist:  [Chester Cheung](https://hanyuancheung.github.io)
 
-👋 Hi, I'm Chester, a passionate & singlehood backend developer [@Tencent](https://github.com/tencent) from China 🚀.
+👋 Hi, I'm Chester, a passionate backend developer [@Tencent](https://github.com/tencent) from China 🚀.
 
 - I'm **Approver** of [@open-telemetry](https://github.com/open-telemetry) ([@opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) & [@opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib)).
 - I'm **Contributor** of [@Prometheus](https://github.com/prometheus) & [@Thanos](https://github.com/thanos-io/thanos/) & [@Grafana](https://github.com/grafana/grafana).
