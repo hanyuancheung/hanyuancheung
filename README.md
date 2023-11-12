@@ -1,8 +1,9 @@
 ###  :man_technologist:  [Chester Cheung](https://hanyuancheung.github.io)
 
-👋 Hi, I'm Chester, a passionate backend developer [@Tencent](https://github.com/tencent) from China 🚀.
+👋 Hi, I'm Chester, a passionate singlehood backend developer [@Tencent](https://github.com/tencent) from China 🚀.
 
 - I'm **Approver** of [@open-telemetry](https://github.com/open-telemetry) ([@opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) & [@opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib)).
+- I'm **Code Owner** of [@trpc-ecosystem/go-opentelemetry](https://github.com/trpc-ecosystem/go-opentelemetry), which is the Observability Filter of [@trpc-group](https://github.com/trpc-group)
 - I'm **Contributor** of [@Prometheus](https://github.com/prometheus) & [@Thanos](https://github.com/thanos-io/thanos/) & [@Grafana](https://github.com/grafana/grafana).
 - I'm **Founder** of [CNCF @Glossary](https://github.com/cncf/glossary)'s [Chinese Community](https://glossary.cncf.io/zh-cn/).
 
@@ -32,14 +33,15 @@
 
 -  **Focusing :** Cloud-Native Observability :zap: OpenSource :fire: 
 -  **Skills :** Golang, Distributed, Infrastructure, OpenTelemetry
--  **Hobbies :** Drunk :beers: & Music :headphones:
+-  **Hobbies :** Drunk :beers: & Music :headphones: & Gym :muscle:
 -  **Job :** Backend Developer in [Tencent](https://github.com/tencent)
 -  **Fact :** Keep Eyes and Ears Open :heart:
--  **Contact me :** [Chester Cheung](mailto:cheung.zhy.csu@gmail.com)
+-  **Contact me by Email:** [Chester Cheung](mailto:cheung.zhy.csu@gmail.com)
 
 ### Languages and Tools
 
 <code><img height="20" src="https://img.shields.io/badge/-cncf-05122A?style=flat&logo=cncf"></code>
+<code><img height="20" src="https://img.shields.io/badge/-openai-05122A?style=flat&logo=openai"></code>
 <code><img height="20" src="https://img.shields.io/badge/-prometheus-05122A?style=flat&logo=prometheus"></code>
 <code><img height="20" src="https://img.shields.io/badge/-grafana-05122A?style=flat&logo=grafana"></code>
 <code><img height="20" src="https://img.shields.io/badge/-golang-05122A?style=flat&logo=go"></code>
